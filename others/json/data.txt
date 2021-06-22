@@ -1,0 +1,5 @@
+[
+	{"name":"Samundra Sharma","email":"sspandit21@gmail.com","phone":"9841857695"},
+						{"name":"Waters Sharma","email":"waters@gmail.com","phone":"9841857695"},
+						{"name":"Samundra Sharma","email":"sspandit21@gmail.com","phone":"9841857695"}
+						]
